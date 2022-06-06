@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: d8494bd88cf1e6842a166b522760c596
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6480663363669007566
+    second: CardSeat_0
+  - first:
+      213: -7108884115830094961
+    second: CardSeat_1
+  - first:
+      213: -4521796084874638163
+    second: CardSeat_2
+  - first:
+      213: 5114377002376847923
+    second: CardSeat_3
+  - first:
+      213: 967574432267396103
+    second: CardSeat_4
+  - first:
+      213: 7083259830978649195
+    second: CardSeat_5
+  - first:
+      213: 3085874288847554884
+    second: CardSeat_6
+  - first:
+      213: 3992873962692593064
+    second: CardSeat_7
+  - first:
+      213: 7317764897857451782
+    second: CardSeat_8
+  - first:
+      213: -3792778080669718485
+    second: CardSeat_9
+  - first:
+      213: 3369399185598903563
+    second: CardSeat_10
+  - first:
+      213: 2585654890887777714
+    second: CardSeat_11
+  - first:
+      213: 5797007092557736086
+    second: CardSeat_12
+  - first:
+      213: 1188480282464272420
+    second: CardSeat_13
+  - first:
+      213: 8659706570349703926
+    second: CardSeat_14
+  - first:
+      213: 8108926145035987109
+    second: CardSeat_15
+  - first:
+      213: -9114093542899761518
+    second: CardSeat_16
+  - first:
+      213: 1231074012275318154
+    second: CardSeat_17
+  - first:
+      213: 8357486937751091997
+    second: CardSeat_18
+  - first:
+      213: -188021408767228137
+    second: CardSeat_19
+  - first:
+      213: -5526268511758570158
+    second: CardSeat_20
+  - first:
+      213: -8112969979295934603
+    second: CardSeat_21
+  - first:
+      213: -206339606760640165
+    second: CardSeat_22
+  - first:
+      213: 480003934837959211
+    second: CardSeat_23
+  - first:
+      213: -3469061147550674978
+    second: CardSeat_24
+  - first:
+      213: -3096125087865038606
+    second: CardSeat_25
+  - first:
+      213: -7964119938859508804
+    second: CardSeat_26
+  - first:
+      213: 483157696099685030
+    second: CardSeat_27
+  - first:
+      213: -9043838357253065621
+    second: CardSeat_28
+  - first:
+      213: -1234884591985041017
+    second: CardSeat_29
+  - first:
+      213: -3828082862618677164
+    second: CardSeat_30
+  - first:
+      213: 5207808002577500084
+    second: CardSeat_31
+  - first:
+      213: 6158494195400266535
+    second: CardSeat_32
+  - first:
+      213: 803130907438399508
+    second: CardSeat_33
+  - first:
+      213: -6094813886451856480
+    second: CardSeat_34
+  - first:
+      213: 6833309386216033158
+    second: CardSeat_35
+  - first:
+      213: 3633667115433648542
+    second: CardSeat_36
+  - first:
+      213: 1684446010457113972
+    second: CardSeat_37
+  - first:
+      213: 4793569846929016377
+    second: CardSeat_38
+  - first:
+      213: 4534399510888012219
+    second: CardSeat_39
+  - first:
+      213: 2514440825129887227
+    second: CardSeat_40
+  - first:
+      213: -8692153444524699760
+    second: CardSeat_41
+  - first:
+      213: 4793581279239001508
+    second: CardSeat_42
+  - first:
+      213: -7234027231223103635
+    second: CardSeat_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 1
+  spritePivot: {x: 0, y: 1}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 5040, z: 1133, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CardSeat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5040
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233ee9bb10f0016a0800000000000000
+      internalID: -6480663363669007566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 5040
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83c786af8b285d90800000000000000
+      internalID: -7108884115830094961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_2
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 5040
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac8b461b6a5f31c0800000000000000
+      internalID: -4521796084874638163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_3
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 5040
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332691a59cae9f640800000000000000
+      internalID: 5114377002376847923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4536
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7046c09d1d38d6d00800000000000000
+      internalID: 967574432267396103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 4536
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c964d994bcc4260800000000000000
+      internalID: 7083259830978649195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_6
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4536
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4490548e05a33da20800000000000000
+      internalID: 3085874288847554884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_7
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 4536
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5c233c6b9896730800000000000000
+      internalID: 3992873962692593064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607bd96476ced8560800000000000000
+      internalID: 7317764897857451782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 4032
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b282bcd3e685d5bc0800000000000000
+      internalID: -3792778080669718485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_10
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4032
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05fc1c15b282ce20800000000000000
+      internalID: 3369399185598903563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_11
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 4032
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd0e138c6712e320800000000000000
+      internalID: 2585654890887777714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3528
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698e250ac3b137050800000000000000
+      internalID: 5797007092557736086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3528
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420c6d225845e7010800000000000000
+      internalID: 1188480282464272420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 3528
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f27fc0ae357d2870800000000000000
+      internalID: 8659706570349703926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_15
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 3528
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a86fb0bd51b88070800000000000000
+      internalID: 8108926145035987109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3024
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e37c5163c348180800000000000000
+      internalID: -9114093542899761518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_17
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3024
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d92e9aa47a51110800000000000000
+      internalID: 1231074012275318154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_18
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 3024
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bfe9b0712cbf370800000000000000
+      internalID: 8357486937751091997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_19
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 3024
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717c2406683046df0800000000000000
+      internalID: -188021408767228137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d24376110ce43b0800000000000000
+      internalID: -5526268511758570158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_21
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2520
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57758a6c9c0f86f80800000000000000
+      internalID: -8112969979295934603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_22
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2520
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5130fb883fe22df0800000000000000
+      internalID: -206339606760640165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_23
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2520
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a6eca190159a600800000000000000
+      internalID: 480003934837959211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf0224244b6bdfc0800000000000000
+      internalID: -3469061147550674978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_25
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2016
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f811a5f2aa5805d0800000000000000
+      internalID: -3096125087865038606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_26
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2016
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb5caf7c13c97190800000000000000
+      internalID: -7964119938859508804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_27
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2016
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2948e5d5584b600800000000000000
+      internalID: 483157696099685030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64f0ed2ee4dd7280800000000000000
+      internalID: -9043838357253065621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_29
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1512
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781e02c910fccdee0800000000000000
+      internalID: -1234884591985041017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_30
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1512
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4507ad22beaefdac0800000000000000
+      internalID: -3828082862618677164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_31
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1512
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7811449c9d54840800000000000000
+      internalID: 5207808002577500084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723532477dd577550800000000000000
+      internalID: 6158494195400266535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1008
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410c00e1e4b452b00800000000000000
+      internalID: 803130907438399508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_34
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1008
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab4beddf0fda6ba0800000000000000
+      internalID: -6094813886451856480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_35
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1008
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bcfbdaeaac4de50800000000000000
+      internalID: 6833309386216033158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91e07f4df06d6230800000000000000
+      internalID: 3633667115433648542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_37
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 504
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475ce90d8ba506710800000000000000
+      internalID: 1684446010457113972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_38
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 504
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9364a3cd06e268240800000000000000
+      internalID: 4793569846929016377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardSeat_39
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 504
+        width: 376
+        height: 504
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb95f24b45c6dee30800000000000000
+      internalID: 4534399510888012219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

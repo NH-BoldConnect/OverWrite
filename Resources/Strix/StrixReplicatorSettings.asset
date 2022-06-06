@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 245893209, guid: f2c2112f638c5b8489d16403d930373b, type: 3}
+  m_Name: StrixReplicatorSettings
+  m_EditorClassIdentifier: 
+  replicators:
+  - {fileID: 743687799707047549, guid: 9bd806fbe50128343a108f94168572bb, type: 3}
+  - {fileID: 3129629854299795476, guid: 5f05ffe5baf8c6e44905d62dd5ec191f, type: 3}
